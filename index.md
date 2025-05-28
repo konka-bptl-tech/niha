@@ -52,3 +52,29 @@
 - Serverless setup with ecs,s3,rds using terraform
 - EKS Cluster set with terraform
  
+
+
+# Day-1
+- SDLC
+- waterfall model
+- Agile methodology
+- DevOps
+- CI/CD/CD
+- Jenkins Introduction
+- Jenkins Master Slave Configuration
+
+# Day-2
+- Jenkins UI Go through
+- Free Style Jobs
+- Scripted and Declarative Pipelines and Differences
+- Declarative pipelines examples
+
+# Day-3
+- Shared Libs
+- CI/CD with Java Application
+
+# Day-4
+- RBAC
+- Backup & Restore & Upgradation
+
+
